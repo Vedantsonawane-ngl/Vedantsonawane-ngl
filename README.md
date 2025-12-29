@@ -13,7 +13,7 @@ I am a **second-year AIML student** with a strong foundation in computer science
 - 🤖 Passionate about **Artificial Intelligence & Machine Learning**
 - 🧠 Experience in **AI research, game development, and academic validation**
 - 🛡️ **Google Developer Group – Cybersecurity Lead (2025)**
-- 🏆 **Smart India Hackathon – Internal Round Winner**
+
 
 ---
 
