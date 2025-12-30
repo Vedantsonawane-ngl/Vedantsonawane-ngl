@@ -1,39 +1,56 @@
-## Hi there 👋
-# 👋 Hi, I'm Vedant Sonawane  
+<h1 align="center">👋 Hi, I'm Vedant Sonawane</h1>
+<h3 align="center">🚀 AI & ML Student | Full-Stack Enthusiast | Cybersecurity Lead</h3>
 
-🚀 **AI & ML Student | Full-Stack Enthusiast | Cybersecurity Lead**  
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-ML-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Full--Stack-Developer-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-Leader-red?style=for-the-badge"/>
+</p>
 
-I am a **second-year AIML student** with a strong foundation in computer science and hands-on experience in **AI, software development, game development, and cybersecurity**. I enjoy building impactful projects, exploring emerging technologies, and contributing to innovative teams.
+---
+
+## 🌟 About Me  
+
+🎓 **Second-year Diploma student in Computer Science (AIML)**  
+🤖 Passionate about **Artificial Intelligence, Machine Learning & Secure Systems**  
+🛡️ **Cybersecurity Lead – Google Developer Group (2025)**  
+🧠 Love building **real-world projects**, researching AI solutions, and exploring **ethical hacking**
+
+> *"Learning by building, securing by design."*
 
 ---
 
 ## 🎯 Professional Summary  
 
-- 🎓 Diploma student in **Computer Science (AIML)**
-- 🤖 Passionate about **Artificial Intelligence & Machine Learning**
-- 🧠 Experience in **AI research, game development, and academic validation**
-- 🛡️ **Google Developer Group – Cybersecurity Lead (2025)**
-
+- 🎓 AIML-focused Computer Science student  
+- 🤖 Strong interest in **AI research & automation**  
+- 🎮 Experience in **game development & system integration**  
+- 🛡️ Cybersecurity enthusiast with hands-on Linux exposure  
+- 🏆 Hackathon winner & IEEE research contributor  
 
 ---
 
-## 🛠️ Technical Skills  
+## 🛠️ Tech Stack  
 
 ### 💻 Programming Languages  
-- C  
-- C++  
-- Java  
-- Advanced Java  
-- Python  
-- Golang  
+<p>
+  <img src="https://img.shields.io/badge/C-blue?logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-red?logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Advanced%20Java-orange"/>
+  <img src="https://img.shields.io/badge/Python-yellow?logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Golang-00ADD8?logo=go&logoColor=white"/>
+</p>
 
 ### 🗄️ Databases  
 - MySQL  
 
 ### 🖥️ Operating Systems  
-- Windows  
-- Ubuntu (Linux)  
-- Kali Linux  
+<p>
+  <img src="https://img.shields.io/badge/Windows-blue?logo=windows"/>
+  <img src="https://img.shields.io/badge/Ubuntu-orange?logo=ubuntu"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-black?logo=kalilinux"/>
+</p>
 
 ### 🌐 Networking & Security  
 - Computer Networking Fundamentals  
@@ -42,44 +59,50 @@ I am a **second-year AIML student** with a strong foundation in computer science
 
 ---
 
-## 📂 Projects  
+## 📂 Featured Projects  
 
 ### 🔹 AI-Driven Resume for Jobs & Business  
-- Intelligent resume analysis system  
-- Optimized for ATS and recruitment workflows  
+- Intelligent resume analysis & optimization  
+- Designed for **ATS compatibility**  
+- Improves recruitment workflows  
 
-### 🔹 Plagiarism Analyzer for ATS & Research Papers  
-- Detects content similarity for academic and professional use  
-- Designed for publishing and academic evaluation  
+### 🔹 Plagiarism Analyzer for ATS & Research  
+- Detects content similarity  
+- Suitable for **academic publishing & professional validation**  
 
 ### 🔹 Game Development (Unity Hub)  
 - Frontend & backend development  
-- Gameplay mechanics and system integration  
+- Gameplay mechanics & system integration  
 
 ---
 
 ## 🧪 Experience & Achievements  
 
-- 📄 **IEEE Paper Published** – AI-Driven Resume System  
-- 🎮 **Game Development Intern** – Not-Sus Games  
-  - Frontend & Backend Development  
-  - *(March 2025 – July 2025)*  
-- 🏆 **Smart India Hackathon** – Internal Round Winner  
-  - Project: *Authenticity Validator for Academia*  
-- 🛡️ **Google Developer Group (GDG)**  
-  - Role: **Cybersecurity Lead – 2025**
+🏆 **Smart India Hackathon – Internal Round Winner**  
+📌 *Project: Authenticity Validator for Academia*  
+
+📄 **IEEE Research Paper Published**  
+📌 *AI-Driven Resume System*  
+
+🎮 **Game Development Intern – Not-Sus Games**  
+📅 *March 2025 – July 2025*  
+- Frontend & Backend Development  
+- Game system integration  
+
+🛡️ **Google Developer Group (GDG)**  
+- **Cybersecurity Lead – 2025**
 
 ---
 
 ## 🎓 Education  
 
 🎓 **Diploma in Computer Science (AIML)**  
-📍 Bharati Vidyapeeth’s Jawaharlal Nehru Institute of Technology  
+🏫 Bharati Vidyapeeth’s Jawaharlal Nehru Institute of Technology  
 📅 2023 – 2025  
-📊 **GPA: 8.5**
+📊 **GPA: 8.5 / 10**
 
 **Key Subjects:**  
-- Programming (Python, Java, Advanced Java)  
+- Python, Java & Advanced Java  
 - Operating Systems  
 - Computer Networks  
 - Database Management Systems  
@@ -88,12 +111,19 @@ I am a **second-year AIML student** with a strong foundation in computer science
 
 ## 🌱 Currently Exploring  
 
-- Advanced Artificial Intelligence & Machine Learning  
+- Advanced **AI & Machine Learning**  
 - Cybersecurity tools using **Kali Linux**  
-- Secure backend and system design  
+- Secure backend architecture & system design  
 
 ---
 
-⭐ **Explore my repositories to see my work in action.**  
-I believe in learning by building and contributing.
+## ⭐ GitHub Philosophy  
 
+✨ *Explore my repositories to see ideas turned into reality.*  
+💡 I believe in **learning by building, failing fast, and improving continuously**.
+
+---
+
+<p align="center">
+  🚀 Thanks for visiting my GitHub profile!
+</p>
