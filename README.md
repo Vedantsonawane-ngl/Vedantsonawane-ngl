@@ -106,3 +106,4 @@ Computer Networking Fundamentals, Information Security Basics, Ethical Hacking &
 - Secure backend architecture & system design  
 
 ---
+![Image](https://github.com/user-attachments/assets/c958c8d5-4f59-4501-99c1-61c1db4c61c4)
