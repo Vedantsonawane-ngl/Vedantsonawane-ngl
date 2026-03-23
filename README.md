@@ -10,9 +10,15 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Vedantsonawane-ngl&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedantsonawane-ngl&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Vedantsonawane-ngl&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vedantsonawane-ngl&theme=transparent&no-frame=false&no-bg=false&margin-w=4" />
+</p>
+
 ---
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Vedantsonawane-ngl&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
