@@ -35,7 +35,7 @@
 ---
 
 ## 🌟 About Me
-🎓 Second-year Diploma student in Computer Science (AIML)  
+🎓 Diploma in Computer Science 
 🤖 Passionate about Artificial Intelligence, Machine Learning & Secure Systems  
 🛡️ Cybersecurity Lead – Google Developer Group (2025)  
 🧠 Love building real-world projects, researching AI solutions, and exploring ethical hacking  
